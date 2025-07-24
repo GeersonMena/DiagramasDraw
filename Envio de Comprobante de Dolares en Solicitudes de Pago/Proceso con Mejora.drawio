@@ -1,0 +1,189 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
+  <diagram name="Página-1" id="fSLntLZWWzskeUeGJDDW">
+    <mxGraphModel dx="3437" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0606;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="123.75" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-2" target="eKjJmJwSCdcL-WDxgkLK-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-2" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1300" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-3" target="eKjJmJwSCdcL-WDxgkLK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-3" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="118.75" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-4" value="&lt;div style=&quot;&quot;&gt;Realiza solicitud de pago en modulo&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&quot;SOLICITUDES DE PAGO&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="118.75" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-5" value="SISROD" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-1580" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-6" value="Ejecutiva de Cuentas por Pagar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1580" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-7" target="eKjJmJwSCdcL-WDxgkLK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-7" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="118.75" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-8" target="eKjJmJwSCdcL-WDxgkLK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;El sistema requiere:&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-Tipo de Pago&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-Beneficiario del Pago&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-&lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: rgb(255, 0, 0);&quot;&gt;Importe&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(255, 255, 255));&quot;&gt;Tipo de Moneda&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); background-color: transparent;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;-Tipo Solicitud&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-Concepto&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-&lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: rgb(255, 0, 0);&quot;&gt;Referencia&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-&lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;Número de Cliente&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-&lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Nombre o Razón Social&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); background-color: transparent;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;-Con cargo a quien se hará el cargo&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;-Archivo de autorización&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="50" width="210" height="197.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-1" target="eKjJmJwSCdcL-WDxgkLK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-4" target="eKjJmJwSCdcL-WDxgkLK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-13" value="Casa de Cambio o Banco" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1580" y="330" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-14" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1580" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-15" target="eKjJmJwSCdcL-WDxgkLK-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-15" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-19" target="eKjJmJwSCdcL-WDxgkLK-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-19" value="&lt;div&gt;Recibe solicitud de Pago en modulo &quot;ADMINISTRACION DE PAGO&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="70" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-21" value="Proveedor" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-607.5" y="230" width="105" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-22" target="eKjJmJwSCdcL-WDxgkLK-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-22" value="Solicita Pago a Proveedor&lt;br&gt;Banco o Casa de Cambio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="150" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="eKjJmJwSCdcL-WDxgkLK-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-710" y="307.5" as="sourcePoint" />
+            <mxPoint x="-690" y="377.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-760" y="307.5" />
+              <mxPoint x="-760" y="377.5" />
+              <mxPoint x="-695" y="377.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-24" value="Casa de Cambio" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="277.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-25" target="eKjJmJwSCdcL-WDxgkLK-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-330" y="307.5" />
+              <mxPoint x="-330" y="377.5" />
+              <mxPoint x="-398" y="377.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-25" value="Banco" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="277.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-21" target="eKjJmJwSCdcL-WDxgkLK-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-21" target="eKjJmJwSCdcL-WDxgkLK-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-29" target="eKjJmJwSCdcL-WDxgkLK-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-29" value="Se compran USD con la Casa de Cambio." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-788.75" y="397.5" width="187.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-31" target="eKjJmJwSCdcL-WDxgkLK-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-695" y="547.5" />
+              <mxPoint x="-555" y="547.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-31" value="La casa de cambio transfiere a el proveedor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-777.5" y="477.5" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="eKjJmJwSCdcL-WDxgkLK-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-398" y="427.5" as="sourcePoint" />
+            <mxPoint x="-530" y="557.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-398" y="547.5" />
+              <mxPoint x="-555" y="547.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-36" value="Se realiza transferencia&amp;nbsp;&lt;div&gt;desde la cuenta de Banco al proveedor en USD&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490.25" y="397.5" width="184.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-38" value="El proveedor envía el comprobante de la transacción" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-677.5" y="567.5" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-41" target="eKjJmJwSCdcL-WDxgkLK-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-41" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="567.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-38" target="eKjJmJwSCdcL-WDxgkLK-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-43" target="eKjJmJwSCdcL-WDxgkLK-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-43" value="La ejecutiva de cuentas por pagar recibe el comprobante de la transacción realizada." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="567.5" width="221.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-45" target="eKjJmJwSCdcL-WDxgkLK-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-45" value="La ejecutiva de cuenta por pagar sube a SISROD el comprobante del pago efectuado de la solicitud hecha." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="480" width="221.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-47" target="eKjJmJwSCdcL-WDxgkLK-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-47" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-924.37" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-49" target="eKjJmJwSCdcL-WDxgkLK-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-49" value="El sistema recibe el comprobante que recibe la ejecutiva y lo sube al FTP Repositorio de SISROD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="310" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-51" value="SISROD manda un correo al usuario que realiza la subida del comprobante" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="240" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eKjJmJwSCdcL-WDxgkLK-51" target="eKjJmJwSCdcL-WDxgkLK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-54" value="La ejecutiva descarga el Comprobante de Pago en el modulo &quot;SOLICITUDES DE PAGO&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1382.5" y="330" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKjJmJwSCdcL-WDxgkLK-55" value="Ejecutiva de Cuentas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1580" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
