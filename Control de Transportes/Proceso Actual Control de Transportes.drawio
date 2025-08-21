@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Página-1" id="fv4Xex71aHvnuy3qUb6k">
-    <mxGraphModel dx="1678" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,13 +10,13 @@
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PxeA5dOEUCCF_qrA4TxW-2" target="PxeA5dOEUCCF_qrA4TxW-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PxeA5dOEUCCF_qrA4TxW-2" value="Tramitador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="PxeA5dOEUCCF_qrA4TxW-2" value="Tramitador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="95" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PxeA5dOEUCCF_qrA4TxW-3" target="PxeA5dOEUCCF_qrA4TxW-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PxeA5dOEUCCF_qrA4TxW-3" value="¿Tiene previo Hoy?" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="PxeA5dOEUCCF_qrA4TxW-3" value="¿Tiene previo Hoy?" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="300" y="70" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PxeA5dOEUCCF_qrA4TxW-1" target="PxeA5dOEUCCF_qrA4TxW-2">
@@ -37,10 +37,10 @@
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PxeA5dOEUCCF_qrA4TxW-9" target="PxeA5dOEUCCF_qrA4TxW-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PxeA5dOEUCCF_qrA4TxW-9" value="Cliente" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="PxeA5dOEUCCF_qrA4TxW-9" value="Agencia Aduanal" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="330" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PxeA5dOEUCCF_qrA4TxW-10" value="Agencia Aduanal" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="PxeA5dOEUCCF_qrA4TxW-10" value="Cliente" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="475" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PxeA5dOEUCCF_qrA4TxW-11" target="PxeA5dOEUCCF_qrA4TxW-13">
@@ -72,8 +72,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="840" y="270" />
-              <mxPoint x="340" y="270" />
-              <mxPoint x="340" y="250" />
+              <mxPoint x="480" y="270" />
+              <mxPoint x="480" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -81,7 +81,14 @@
           <mxGeometry x="780" y="95" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PxeA5dOEUCCF_qrA4TxW-16" target="PxeA5dOEUCCF_qrA4TxW-52">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="270" />
+              <mxPoint x="480" y="270" />
+              <mxPoint x="480" y="190" />
+              <mxPoint x="240" y="190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-16" value="Selecciona el Previo Normal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="190" width="120" height="60" as="geometry" />
@@ -90,13 +97,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-20" value="Selecciona Transporte Puesto por Cliente" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="330" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="475" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PxeA5dOEUCCF_qrA4TxW-22" target="PxeA5dOEUCCF_qrA4TxW-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-22" value="Selecciona Transporte que tiene convenio con Agencia Aduanal" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="475" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="327.5" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PxeA5dOEUCCF_qrA4TxW-27" target="PxeA5dOEUCCF_qrA4TxW-44">
           <mxGeometry relative="1" as="geometry" />
@@ -104,10 +111,10 @@
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-27" value="Selecciona Transporte Puesto por Naviera" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="620" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PxeA5dOEUCCF_qrA4TxW-29" value="Tramitador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="PxeA5dOEUCCF_qrA4TxW-29" value="Tramitador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="50" y="270" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PxeA5dOEUCCF_qrA4TxW-30" value="SISROD" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="PxeA5dOEUCCF_qrA4TxW-30" value="SISROD" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="50" y="370" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PxeA5dOEUCCF_qrA4TxW-13" target="PxeA5dOEUCCF_qrA4TxW-20">
@@ -125,14 +132,23 @@
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PxeA5dOEUCCF_qrA4TxW-10" target="PxeA5dOEUCCF_qrA4TxW-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PxeA5dOEUCCF_qrA4TxW-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PxeA5dOEUCCF_qrA4TxW-43" target="PxeA5dOEUCCF_qrA4TxW-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-43" value="El transportista factura a Alcance&lt;br&gt;Por tanto se pone el RFC de Alcance" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="475" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="327.5" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PxeA5dOEUCCF_qrA4TxW-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PxeA5dOEUCCF_qrA4TxW-44" target="PxeA5dOEUCCF_qrA4TxW-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-44" value="El transportista factura a Cliente&lt;br&gt;Por tanto se pone el RFC de Cliente" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="620" y="700" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PxeA5dOEUCCF_qrA4TxW-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PxeA5dOEUCCF_qrA4TxW-45" target="PxeA5dOEUCCF_qrA4TxW-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-45" value="El transportista factura a Cliente&lt;br&gt;Por tanto se pone el RFC de Cliente" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="330" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="475" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PxeA5dOEUCCF_qrA4TxW-52" target="PxeA5dOEUCCF_qrA4TxW-56">
           <mxGeometry relative="1" as="geometry" />
@@ -153,6 +169,30 @@
         </mxCell>
         <mxCell id="PxeA5dOEUCCF_qrA4TxW-56" value="Se ingresa Nombre del Cliente y Nombre de Ejecutiva" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="320" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PxeA5dOEUCCF_qrA4TxW-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PxeA5dOEUCCF_qrA4TxW-59" target="PxeA5dOEUCCF_qrA4TxW-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PxeA5dOEUCCF_qrA4TxW-59" value="Se ingresa Tipo de Unidad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PxeA5dOEUCCF_qrA4TxW-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PxeA5dOEUCCF_qrA4TxW-61" target="PxeA5dOEUCCF_qrA4TxW-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PxeA5dOEUCCF_qrA4TxW-61" value="Se ingresa Destino" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PxeA5dOEUCCF_qrA4TxW-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PxeA5dOEUCCF_qrA4TxW-63" target="PxeA5dOEUCCF_qrA4TxW-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PxeA5dOEUCCF_qrA4TxW-63" value="Se ingresa si es IMO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PxeA5dOEUCCF_qrA4TxW-65" value="Se ingresa el Domicilio Fiscal del que se va a ingresar en la Factura del Transporte (Alcance)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="1040" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PxeA5dOEUCCF_qrA4TxW-67" value="Se ingresa el Domicilio Fiscal del&amp;nbsp; Cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
